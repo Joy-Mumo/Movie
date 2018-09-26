@@ -1,0 +1,31 @@
+.jumbotron{
+  background-color: #467370;
+}
+.card-img-top1,
+.card-img-top2,
+.card-img-top3
+{
+  height: 300px;
+
+}
+footer{
+  background-color: #467370;
+  height: 50px;
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+border-radius: 30px;
+
+
+
+}
+h1,h2,h3,h4,h5{
+  font-family: 'Varela Round';
+}
+.masterhe {
+  font-family: 'Varela Round';
+  background-color:orange;
+  height:80px;
+  border-radius: 30px;
+  text-align: center;
+}
